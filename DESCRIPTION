@@ -1,0 +1,19 @@
+Package: fooshiny
+Title: FooShiny
+Version: 0.0.0.9000
+Authors@R: person('Muhammad Aswan', 'Syahputra', email = 'aswansyahputra@gmail.com', role = c('cre', 'aut'))
+Description: A dummy package for demonstration.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    shiny,
+    golem,
+    processx,
+    attempt,
+    DT,
+    glue,
+    htmltools
+RoxygenNote: 6.1.0
+Suggests: 
+    testthat
