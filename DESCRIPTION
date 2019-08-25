@@ -17,3 +17,5 @@ Imports:
 RoxygenNote: 6.1.0
 Suggests: 
     testthat
+URL: https://github.com/aswansyahputra/fooshiny
+BugReports: https://github.com/aswansyahputra/fooshiny/issues
